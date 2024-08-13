@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Htet-Ag-Lwin
 - 👀 I’m interested in ...Programming
 - 🌱 I’m currently learning ...React
-- 💞️ I’m looking to collaborate on ...Tesla
 - 📫 How to reach me ...htetaunglwin.hal@gmal.com
 
 <!---
